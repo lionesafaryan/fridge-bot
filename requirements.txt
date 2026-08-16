@@ -1,11 +1,4 @@
 pyTelegramBotAPI
-google-generativeai
-google-cloud-vision
-Pillow
-python-dotenv
-pytz
-timezonefinder
-pyTelegramBotAPI
 groq
 openai
 Pillow
