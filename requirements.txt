@@ -5,3 +5,7 @@ Pillow
 python-dotenv
 pytz
 timezonefinder
+pyTelegramBotAPI
+groq
+openai
+Pillow
